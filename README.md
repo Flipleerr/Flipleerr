@@ -1,10 +1,8 @@
-Yo, I’m @Flipleerr!
+hey i'm memoryleak
 
 I'm Serbian and I make shitty Python programs
 
-I also try out other stuff like JS from time to time XD
-
-Feel free to reach out to theflipleerr@gmail.com or here for PULL REQUESTS and other stuff.
+Feel free to reach out to theflipleerr@gmail.com for shit or something
 
 You can also branch and use my stuff (just make sure to credit me!) without the need for donations or commissions
 
