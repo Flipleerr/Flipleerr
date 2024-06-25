@@ -1,12 +1,6 @@
 hey i'm memoryleak
 
-I'm Serbian and I make shitty Python programs
-
-Feel free to reach out to theflipleerr@gmail.com for shit or something
-
-You can also branch and use my stuff (just make sure to credit me!) without the need for donations or commissions
-
-Check out my YT channel too! https://youtube.com/channel/UCHo9ztfBRTF4ehEiT6FqTeA
+main project right now is ADXTools, otherwise i just write whatever or use this account as free file storage lmao
 
 
 
