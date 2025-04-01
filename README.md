@@ -1,6 +1,5 @@
 hey i'm memoryleak
-
-main project right now is ADXTools, otherwise i just write whatever or use this account as free file storage lmao
+i do whatever the fuck
 
 
 
